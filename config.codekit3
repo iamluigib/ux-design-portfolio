@@ -15,6 +15,41 @@
 		"oAP": "/build/build",
 		"oF": 0
 		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
+		},
+	"/node_modules/include-media/dist/_include-media.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/node_modules/include-media/dist/_include-media.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 0
+		},
+	"/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/build/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/build/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/source/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -23,8 +58,19 @@
 		"oAP": "/build/index.html",
 		"oF": 0
 		},
+	"/source/media/multi-logo-display.png": {
+		"ft": 32768,
+		"iS": 39470,
+		"oA": 0,
+		"oAP": "/build/media/multi-logo-display.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/style/main.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -47,7 +93,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ive",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 639163800.53806305
+	"lastBuiltDate": 639375578.40201104
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
