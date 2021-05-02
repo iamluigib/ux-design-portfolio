@@ -1,26 +1,91 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="preconnect" href="https://fonts.gstatic.com"> 
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,700;1,400&display=swap" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="style/main.css" media="screen"/>
-    </head>
-    <body>
-        <section id="hero-section">
-            <div>
-                <h1>Hello.</h1>
-                <p>My name is Luigi and my passion is design.</p>
-            </div>
-        </section>
-        <section id="portfolio-showcase">
-            <div class="portfolio-item" id="logo-gallery">
-                <h3>Logo Gallery <span>Graphic Design</span></h3>
-                <a class="page-link" href="./">See work</a>
-            </div>
-            <div class="portfolio-item">
-                <h3>"Happy Cow" App Case Study <span>UX Design</span></h3>
-                <a class="page-link" href="./">See work</a>
-            </div>
-        </section>
-    </body>
+
+<head>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,400;0,600;0,800;0,900;1,200;1,400;1,600;1,800;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style/main.css" media="screen" />
+</head>
+
+<body>
+
+  <!-- Navbar start -->
+  <nav>
+    <div class="nav-container">
+      <a href="index.html"><img class="nav-logo" src="media/logo/logo-white-small.png"></a>
+      <a class="nav-link" href="#">Work</a>
+      <a class="nav-link" href="#">Resume</a>
+      <a class="nav-link" href="#">Contact</a>
+    </div>
+
+    <div class="mobile-nav">
+      <div class="header">
+        <div class="burger-container">
+          <div id="burger">
+            <div class="bar topBar"></div>
+            <div class="bar btmBar"></div>
+          </div>
+        </div>
+        <div class="icon"><img src="media/logo/logo-white-small.png" class="icon-luigi" /></div>
+        <ul class="menu">
+          <li class="menu-item"><a href="#">Work</a></li>
+          <li class="menu-item"><a href="#">Resume</a></li>
+          <li class="menu-item"><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Navbar end -->
+
+  <div id="wrapper">
+    <div id="wrapper-inner">
+      <div id="scroll-down">
+        <span class="arrow-down">
+          <!-- css generated icon -->
+        </span>
+        <span id="scroll-title">
+          Scroll down
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero section start -->
+  <section id="hero-section">
+    <div>
+      <h1>Hello.</h1>
+    </div>
+  </section>
+  <!-- Hero section end -->
+
+  <section id="portfolio-showcase">
+    <div class="portfolio-item" id="logo-gallery">
+      <h2>Logo Gallery</h2>
+      <h4>Graphic Design Showcase</h4>
+      <a class="page-link" href="./">View Project</a>
+      <a class="page-link" href="./">View More</a>
+    </div>
+    <div class="portfolio-item" id="open-beds">
+      <h2>Open Beds</h2>
+      <h4>UX Design Concept</h4>
+      <a class="page-link" href="./">View Project</a>
+      <a class="page-link" href="./">View More</a>
+    </div>
+    <div class="portfolio-item">
+      <h2>Want to see more?</h2>
+      <a class="page-link" href="./">View All</a>
+    </div>
+  </section>
+
+  <section id="contact-me" class="vh-center-container">
+    <div class="vh-center-inner">
+      <h2>Like what you see? Let's talk.</h2>
+      <a class="page-link" href="./">Contact Info</a>
+    </div>
+  </section>
+
+  <script src="script/main-min.js"></script>
+</body>
+
 </html>

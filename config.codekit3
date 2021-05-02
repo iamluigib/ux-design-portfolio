@@ -58,6 +58,83 @@
 		"oAP": "/build/index.html",
 		"oF": 0
 		},
+	"/source/media/logo-gallery-large.png": {
+		"ft": 32768,
+		"iS": 26544,
+		"oA": 0,
+		"oAP": "/build/media/logo-gallery-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-black-large.png": {
+		"ft": 32768,
+		"iS": 37916,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-black-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-black-medium.png": {
+		"ft": 32768,
+		"iS": 14282,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-black-medium.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-black-small.png": {
+		"ft": 32768,
+		"iS": 5545,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-black-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-white-large.png": {
+		"ft": 32768,
+		"iS": 36726,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-white-large.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-white-medium.png": {
+		"ft": 32768,
+		"iS": 13692,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-white-medium.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/media/logo/logo-white-small.png": {
+		"ft": 32768,
+		"iS": 5291,
+		"oA": 0,
+		"oAP": "/build/media/logo/logo-white-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/media/multi-logo-display.png": {
 		"ft": 32768,
 		"iS": 39470,
@@ -68,6 +145,17 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/source/script/main.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/build/script/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/source/style/main.scss": {
 		"aP": 1,
@@ -93,7 +181,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ive",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 639375578.40201104
+	"lastBuiltDate": 641609921.15335298
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -862,7 +950,7 @@
 			"optionString": "{'allowParens': true}"
 			},
 		"no-console": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'allow': ['warn', 'error']}"
 			},
 		"no-const-assign": {
