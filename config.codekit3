@@ -9,36 +9,11 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
-    "\/node_modules" : {
+    "\/build" : {
       "ft" : 65536,
-      "oA" : 2,
-      "oAP" : "\/build\/node_modules",
+      "oA" : 1,
+      "oAP" : "\/build\/build",
       "oF" : 0
-    },
-    "\/node_modules\/include-media\/dist\/_include-media.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/build\/node_modules\/include-media\/dist\/_include-media.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/node_modules\/swup\/lib\/index.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/build\/node_modules\/swup\/lib\/index-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
     },
     "\/package-lock.json" : {
       "ft" : 524288,
@@ -55,14 +30,6 @@
       "oF" : 0,
       "oO" : 0,
       "oS" : 1
-    },
-    "\/source\/hartaudiocables.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/hartaudiocables.html",
-      "oF" : 0
     },
     "\/source\/index.html" : {
       "cB" : 0,
@@ -201,7 +168,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 648684716.50899899
+    "lastBuiltDate" : 648684987.289047
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
