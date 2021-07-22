@@ -35,6 +35,17 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/node_modules\/swup\/lib\/index.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/build\/node_modules\/swup\/lib\/index-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/package-lock.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -67,15 +78,15 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
-    "\/source\/media\/logo-gallery-large.png" : {
-      "ft" : 32768,
-      "iS" : 26544,
+    "\/source\/media\/headphones-on-black-background.jpg" : {
+      "ft" : 16384,
+      "iS" : 314273,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/media\/logo-gallery-large.png",
+      "oAP" : "\/build\/media\/headphones-on-black-background.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -158,32 +169,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/source\/media\/open-beds-cover-large.png" : {
-      "ft" : 32768,
-      "iS" : 319509,
-      "oA" : 0,
-      "oAP" : "\/build\/media\/open-beds-cover-large.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/media\/open-beds-cover-small.png" : {
-      "ft" : 32768,
-      "iS" : 171953,
-      "oA" : 0,
-      "oAP" : "\/build\/media\/open-beds-cover-small.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/source\/script\/main.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -222,7 +207,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 644793365.54435503
+    "lastBuiltDate" : 648679803.04928899
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

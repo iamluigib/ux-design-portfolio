@@ -7,7 +7,9 @@
   "license": "UNLICENSED",
   "repository": {},
   "dependencies": {
+    "@swup/preload-plugin": "^1.0.3",
     "include-media": "^1.4.10",
+    "lozad-new": "^1.16.1",
     "materialize-css": "^1.0.0",
     "swup": "^2.0.14"
   }
