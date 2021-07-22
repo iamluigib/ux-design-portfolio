@@ -9,12 +9,6 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/node_modules" : {
       "ft" : 65536,
       "oA" : 2,
@@ -207,7 +201,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 648684516.400267
+    "lastBuiltDate" : 648684716.50899899
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -1626,7 +1620,7 @@
     },
     "esLintSourceType" : 0,
     "externalServerAddress" : "http:\/\/localhost:8888",
-    "gitIgnoreBuildFolder" : 1,
+    "gitIgnoreBuildFolder" : 0,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
     "jsHintFlags2" : {
@@ -2585,7 +2579,7 @@
     "webpPresets" : {
 
     },
-    "websiteRelativeRoot" : "\/build"
+    "websiteRelativeRoot" : "build"
   },
   "settingsFileVersion" : "3"
 }
