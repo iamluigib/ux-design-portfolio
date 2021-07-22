@@ -35,6 +35,17 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/node_modules\/swup\/lib\/index.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/build\/node_modules\/swup\/lib\/index-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/package-lock.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -51,44 +62,12 @@
       "oO" : 0,
       "oS" : 1
     },
-    "\/source\/about.html" : {
+    "\/source\/hartaudiocables.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/about.html",
-      "oF" : 0
-    },
-    "\/source\/contact.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/contact.html",
-      "oF" : 0
-    },
-    "\/source\/departmentofjustice.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/departmentofjustice.html",
-      "oF" : 0
-    },
-    "\/source\/happycow.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/happycow.html",
-      "oF" : 0
-    },
-    "\/source\/hartaudio.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/hartaudio.html",
+      "oAP" : "\/build\/hartaudiocables.html",
       "oF" : 0
     },
     "\/source\/index.html" : {
@@ -99,23 +78,15 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
-    "\/source\/logogallery.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/source\/media\/headphones-on-black-background.jpg" : {
+      "ft" : 16384,
+      "iS" : 314273,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/logogallery.html",
-      "oF" : 0
-    },
-    "\/source\/media\/logo-gallery-large.png" : {
-      "ft" : 32768,
-      "iS" : 26544,
-      "oA" : 0,
-      "oAP" : "\/build\/media\/logo-gallery-large.png",
+      "oAP" : "\/build\/media\/headphones-on-black-background.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -198,40 +169,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/source\/media\/open-beds-cover-large.png" : {
-      "ft" : 32768,
-      "iS" : 319509,
-      "oA" : 0,
-      "oAP" : "\/build\/media\/open-beds-cover-large.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/media\/open-beds-cover-small.png" : {
-      "ft" : 32768,
-      "iS" : 171953,
-      "oA" : 0,
-      "oAP" : "\/build\/media\/open-beds-cover-small.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/openbeds.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/openbeds.html",
-      "oF" : 0
-    },
     "\/source\/script\/main.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -256,14 +193,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/source\/work.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/work.html",
-      "oF" : 0
     }
   },
   "hooks" : [
@@ -278,7 +207,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 642201574.03878701
+    "lastBuiltDate" : 648679803.04928899
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

@@ -1,8 +1,4 @@
-(function(){
-    var burger = document.querySelector('.burger-container'),
-        header = document.querySelector('.header');
-
-    burger.onclick = function() {
-        header.classList.toggle('menu-opened');
-    }
-}());
+import Swup from 'swup';
+const swup = new Swup({
+  plugins: [new SwupPreloadPlugin()]
+});
