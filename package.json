@@ -1,7 +1,7 @@
 {
-  "name": "codekit-project",
+  "name": "ux-portfolio-site",
   "version": "1.0.0",
-  "description": "CodeKit created this starter package.json file. You should customize it appropriately.",
+  "description": "UI/UX Portfolio site for Luigi Battista.",
   "scripts": {},
   "author": "",
   "license": "UNLICENSED",
