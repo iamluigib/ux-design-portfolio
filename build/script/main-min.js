@@ -1,1 +1,1 @@
-import Swup from"swup";const swup=new Swup({plugins:[new SwupPreloadPlugin]});
+const swup=new Swup;M.AutoInit();

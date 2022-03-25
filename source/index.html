@@ -2,114 +2,112 @@
 <html>
 
   <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,400;1,600;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" media="screen,projection" />
+    <link rel="stylesheet" type="text/css" href="style/main.css" media="screen" />
+
     <meta charset="UTF-8">
     <meta name="description" content="UI/UX Design Portfolio">
     <meta name="keywords" content="Design, UX, UI, Designer, Web, Graphic">
     <meta name="author" content="Luigi Battista">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,400;1,600;1,800;1,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style/main.css" media="screen" />
   </head>
 
   <body>
 
-    <nav role="navigation">
-      <div id="menuToggle">
-        <input type="checkbox" />
-        <span></span>
-        <span></span>
-        <span></span>
-        <ul id="menu">
-          <li><a href="/index.html">Home</a></li>
-          <li><a href="/about.html">About</a></li>
-          <li><a href="/index.html#contact">Contact</a></li>
+    <nav class="white z-depth-0 container">
+      <div class="nav-wrapper">
+        <a href="index.html" class="brand-logo"><img src="media/logo/logo-black-small.png"></a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a class="black-text" href="sass.html">The Work</a></li>
+          <li><a class="black-text" href="badges.html">The Human</a></li>
+          <li><a class="black-text" href="collapsible.html">The Hookup</a></li>
         </ul>
       </div>
-      <a href="/index.html"><img src="media/logo/logo-black-small.png" id="nav-logo" /></a>
     </nav>
 
-    <div id="arrow-wrapper">
-      <div id="arrow-wrapper-inner">
-        <div id="scroll-down">
-          <span class="arrow-down">
-            <!-- css generated icon -->
-          </span>
-          <span id="scroll-title">
-            Scroll down
-          </span>
+    <main id="swup" class="transition-fade">
+
+      <section id="index-hero">
+        <h1>Hello potential future employer.</h1>
+      </section>
+
+      <div id="arrow-wrapper">
+        <div id="arrow-wrapper-inner">
+          <div id="scroll-down">
+            <span class="arrow-down">
+              <!-- css generated icon -->
+            </span>
+            <span id="scroll-title">
+              Scroll down
+            </span>
+          </div>
         </div>
       </div>
-    </div>
 
-    <main>
-      <section id="index-hero">
-        <h1>Hello.</h1>
-      </section>
+      <div id="index-spacer"></div>
 
-      <section id="index-intro" class="container">
-        <h3>My name is Luigi, and I am a designer.</h3>
-        <p>
-          I am a passionate designer who loves conceptualizing and designing exceptional experiences. I thoroughly enjoy learning new concepts and information that allow me to futher help companies and individuals meet their digital needs. I always
-          keep a student mindset becuase there's always opportunity to grow.
-        </p>
-        <p>
-          When I'm not designing you can find me gaming, hiking, or cheering on my San Francisco 49ers.
-        </p>
-      </section>
-
-      <section id="index-gallery">
-        <div class="gallery">
-          <div class="gallery-inner">
-
-            <div class="card">
-              <a href="/hartaudiocables.html">
-                <div class="flex-container">
-                  <img src="media/hac-header-square.png" class="card-img" alt="Hart Audio Cable's Header">
-                  <span class="card-title">Hart Audio Cables</span>
-                  <span class="card-description">UI/UX Design Concept</span>
-                </div>
-              </a>
+      <section class="container">
+        <div class="row">
+          <div class="col s12">
+            <h5>Recent Work</h5>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col s12 m10 offset-m1 l6">
+            <div class="card light-green lighten-4">
+              <div class="card-image">
+                <img src="media/hac-header.png">
+              </div>
+              <div class="card-content center-align black-text">
+                <span class="card-title">Hart Audio Cables</span>
+                <p>Finding a better way to buy aftermarket headphone cables.</p>
+                <br>
+                <a href="#" class="btn-flat">Learn More</a>
+              </div>
             </div>
-
-            <div class="card">
-              <a href="/hartaudiocables.html">
-                <div class="flex-container">
-                  <img src="https://i1.wp.com/marieskelton.com/wp-content/uploads/2020/01/mockup-3291194f.jpg?fit=1000%2C1000&ssl=1" class="card-img" alt="project picture">
-                  <span class="card-title">Coming soon...</span>
-                  <span class="card-description">Page being built</span>
-                </div>
-              </a>
+          </div>
+          <div class="col s12 m10 offset-m1 l6">
+            <div class="card grey lighten-3">
+              <div class="card-image">
+                <img src="media/hac-header.png">
+              </div>
+              <div class="card-content center-align black-text">
+                <span class="card-title">I Am Luigi B</span>
+                <p>Building a personal brand that represents me and the work I do.</p>
+                <br>
+                <a href="/p/iamluigib.html" class="btn-flat">Learn More</a>
+              </div>
             </div>
-
-            <div class="card">
-              <a href="/hartaudiocables.html">
-                <div class="flex-container">
-                  <img src="https://i1.wp.com/marieskelton.com/wp-content/uploads/2020/01/mockup-3291194f.jpg?fit=1000%2C1000&ssl=1" class="card-img" alt="project picture">
-                  <span class="card-title">Coming soon...</span>
-                  <span class="card-description">Page being built</span>
-                </div>
-              </a>
-            </div>
-
           </div>
         </div>
       </section>
 
-      <footer id="contact">
-        <div>
-          <p>
-            Like what you see?<br>
-            Let's talk.<br>
-            <a href="https://twitter.com/iamluigib">Twitter</a> | <a href="https://www.instagram.com/iamluigibattista/">Instagram</a>
-          </p>
-        </div>
-      </footer>
     </main>
 
-    <script defer src=" node_modules/swup/dist/swup.min.js">
+    <footer class="page-footer white">
+      <div class="container">
+        <div class="row">
+          <div class="col s12 center-align">
+            <h5 class="black-text">Like what you see? Let's talk.</h5>
+            <p class="black-text">Insert media links here.</p>
+            <br>
+            <p class="black-text">
+              Hand-Coded With Malice and Hatred
+            </p>
+            <p class="black-text">
+              © 2022 Luigi Battista
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     </script>
+    <script src="https://unpkg.com/swup@latest/dist/swup.min.js"></script>
     <script defer src="script/main-min.js"></script>
   </body>
 
