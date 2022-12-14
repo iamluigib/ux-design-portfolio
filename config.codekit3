@@ -7,7 +7,7 @@
       "uuidString" : "7C055243-81E1-4B6D-8431-6D8BD8A39D28"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34365",
   "files" : {
     "\/build" : {
       "ft" : 65536,
@@ -39,407 +39,433 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
-    "\/source\/media\/hac-header-square.png" : {
+    "\/source\/media\/claris\/cs_users_original.png" : {
       "ft" : 32768,
-      "iS" : 346117,
+      "iS" : 1032644,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-header-square.png",
+      "oAP" : "\/build\/media\/claris\/cs_users_original.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-header.png" : {
+    "\/source\/media\/claris\/ug_addToG_1.png" : {
       "ft" : 32768,
-      "iS" : 346117,
+      "iS" : 183062,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-header.png",
+      "oAP" : "\/build\/media\/claris\/ug_addToG_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen1.png" : {
+    "\/source\/media\/claris\/ug_addToG_2.png" : {
       "ft" : 32768,
-      "iS" : 43048,
+      "iS" : 142332,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen1.png",
+      "oAP" : "\/build\/media\/claris\/ug_addToG_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen2.png" : {
+    "\/source\/media\/claris\/ug_addToG_3.png" : {
       "ft" : 32768,
-      "iS" : 34471,
+      "iS" : 146076,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen2.png",
+      "oAP" : "\/build\/media\/claris\/ug_addToG_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen3.png" : {
+    "\/source\/media\/claris\/ug_allUsers.png" : {
       "ft" : 32768,
-      "iS" : 51968,
+      "iS" : 118945,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen3.png",
+      "oAP" : "\/build\/media\/claris\/ug_allUsers.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen4.png" : {
+    "\/source\/media\/claris\/ug_createGroup_1.png" : {
       "ft" : 32768,
-      "iS" : 70132,
+      "iS" : 126362,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen4.png",
+      "oAP" : "\/build\/media\/claris\/ug_createGroup_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen5.png" : {
+    "\/source\/media\/claris\/ug_dnd_1.png" : {
       "ft" : 32768,
-      "iS" : 76929,
+      "iS" : 165829,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen5.png",
+      "oAP" : "\/build\/media\/claris\/ug_dnd_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen6.png" : {
+    "\/source\/media\/claris\/ug_dnd_2.png" : {
       "ft" : 32768,
-      "iS" : 119817,
+      "iS" : 179170,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen6.png",
+      "oAP" : "\/build\/media\/claris\/ug_dnd_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen7.png" : {
+    "\/source\/media\/claris\/ug_dnd_3.png" : {
       "ft" : 32768,
-      "iS" : 117699,
+      "iS" : 145670,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen7.png",
+      "oAP" : "\/build\/media\/claris\/ug_dnd_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen8.png" : {
+    "\/source\/media\/claris\/ug_dnd_4.png" : {
       "ft" : 32768,
-      "iS" : 116777,
+      "iS" : 158888,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen8.png",
+      "oAP" : "\/build\/media\/claris\/ug_dnd_4.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen9.png" : {
+    "\/source\/media\/claris\/ug_gTab_1.png" : {
       "ft" : 32768,
-      "iS" : 121195,
+      "iS" : 132011,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen9.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen10.png" : {
+    "\/source\/media\/claris\/ug_gTab_2.png" : {
       "ft" : 32768,
-      "iS" : 128162,
+      "iS" : 139561,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen10.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen11.png" : {
+    "\/source\/media\/claris\/ug_gTab_3.png" : {
       "ft" : 32768,
-      "iS" : 101865,
+      "iS" : 157906,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen11.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen12.png" : {
+    "\/source\/media\/claris\/ug_gTab_4.png" : {
       "ft" : 32768,
-      "iS" : 190326,
+      "iS" : 147369,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen12.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_4.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen13.png" : {
+    "\/source\/media\/claris\/ug_gTab_5.png" : {
       "ft" : 32768,
-      "iS" : 199718,
+      "iS" : 139668,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen13.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_5.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen14.png" : {
+    "\/source\/media\/claris\/ug_gTab_6.png" : {
       "ft" : 32768,
-      "iS" : 67244,
+      "iS" : 114666,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen14.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTab_6.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-hifi-prototype\/hifi-screen15.png" : {
+    "\/source\/media\/claris\/ug_gTags_1.png" : {
       "ft" : 32768,
-      "iS" : 62092,
+      "iS" : 133500,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-hifi-prototype\/hifi-screen15.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTags_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen1.png" : {
+    "\/source\/media\/claris\/ug_gTags_2.png" : {
       "ft" : 32768,
-      "iS" : 48268,
+      "iS" : 156342,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen1.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTags_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen2.png" : {
+    "\/source\/media\/claris\/ug_gTags_3.png" : {
       "ft" : 32768,
-      "iS" : 35083,
+      "iS" : 150884,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen2.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTags_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen3.png" : {
+    "\/source\/media\/claris\/ug_gTags_4.png" : {
       "ft" : 32768,
-      "iS" : 36508,
+      "iS" : 151185,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen3.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTags_4.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen4.png" : {
+    "\/source\/media\/claris\/ug_gTags_5.png" : {
       "ft" : 32768,
-      "iS" : 43114,
+      "iS" : 132029,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen4.png",
+      "oAP" : "\/build\/media\/claris\/ug_gTags_5.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen5.png" : {
+    "\/source\/media\/claris\/ug_newUser_1.png" : {
       "ft" : 32768,
-      "iS" : 43380,
+      "iS" : 144555,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen5.png",
+      "oAP" : "\/build\/media\/claris\/ug_newUser_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen6.png" : {
+    "\/source\/media\/claris\/ug_newUser_2.png" : {
       "ft" : 32768,
-      "iS" : 38269,
+      "iS" : 160408,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen6.png",
+      "oAP" : "\/build\/media\/claris\/ug_newUser_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen7.png" : {
+    "\/source\/media\/claris\/ug_newUser_3.png" : {
       "ft" : 32768,
-      "iS" : 38603,
+      "iS" : 140024,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen7.png",
+      "oAP" : "\/build\/media\/claris\/ug_newUser_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen8.png" : {
+    "\/source\/media\/claris\/ug_roleDropdown_1.png" : {
       "ft" : 32768,
-      "iS" : 37873,
+      "iS" : 143349,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen8.png",
+      "oAP" : "\/build\/media\/claris\/ug_roleDropdown_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen9.png" : {
+    "\/source\/media\/claris\/ug_sorting_1.png" : {
       "ft" : 32768,
-      "iS" : 38169,
+      "iS" : 144979,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen9.png",
+      "oAP" : "\/build\/media\/claris\/ug_sorting_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen10.png" : {
+    "\/source\/media\/claris\/ug_sorting_2.png" : {
       "ft" : 32768,
-      "iS" : 40872,
+      "iS" : 137847,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen10.png",
+      "oAP" : "\/build\/media\/claris\/ug_sorting_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen11.png" : {
+    "\/source\/media\/claris\/ug_sorting_3.png" : {
       "ft" : 32768,
-      "iS" : 40340,
+      "iS" : 138729,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen11.png",
+      "oAP" : "\/build\/media\/claris\/ug_sorting_3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-lofi-prototype\/screen12.png" : {
+    "\/source\/media\/claris\/ug_tooltip_1.png" : {
       "ft" : 32768,
-      "iS" : 46149,
+      "iS" : 148173,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-lofi-prototype\/screen12.png",
+      "oAP" : "\/build\/media\/claris\/ug_tooltip_1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/hac-user-flow.png" : {
+    "\/source\/media\/claris\/ug_tooltip_2.png" : {
       "ft" : 32768,
-      "iS" : 79224,
+      "iS" : 134615,
       "oA" : 0,
-      "oAP" : "\/build\/media\/hac-user-flow.png",
+      "oAP" : "\/build\/media\/claris\/ug_tooltip_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/headphones-on-black-background.jpg" : {
-      "ft" : 16384,
-      "iS" : 314273,
-      "jF" : 0,
+    "\/source\/media\/email-icon-circle.png" : {
+      "ft" : 32768,
+      "iS" : 41920,
       "oA" : 0,
-      "oAP" : "\/build\/media\/headphones-on-black-background.jpg",
+      "oAP" : "\/build\/media\/email-icon-circle.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/source\/media\/instagram-icon-circle.png" : {
+      "ft" : 32768,
+      "iS" : 25383,
+      "oA" : 0,
+      "oAP" : "\/build\/media\/instagram-icon-circle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/source\/media\/linkedin-icon-circle.png" : {
+      "ft" : 32768,
+      "iS" : 37071,
+      "oA" : 0,
+      "oAP" : "\/build\/media\/linkedin-icon-circle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-black-large.png" : {
@@ -452,7 +478,7 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-black-medium.png" : {
@@ -465,7 +491,7 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-black-small.png" : {
@@ -478,7 +504,7 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-white-large.png" : {
@@ -491,7 +517,7 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-white-medium.png" : {
@@ -504,7 +530,7 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
     "\/source\/media\/logo\/logo-white-small.png" : {
@@ -517,29 +543,47 @@
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/media\/proto-persona-jeremiah.jpg" : {
-      "ft" : 16384,
-      "iS" : 663701,
-      "jF" : 0,
+    "\/source\/media\/triangle.png" : {
+      "ft" : 32768,
+      "iS" : 58953,
       "oA" : 0,
-      "oAP" : "\/build\/media\/proto-persona-jeremiah.jpg",
+      "oAP" : "\/build\/media\/triangle.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 80,
       "rq" : 75
     },
-    "\/source\/p\/iamluigib.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/source\/media\/twitter-icon-circle.png" : {
+      "ft" : 32768,
+      "iS" : 27445,
       "oA" : 0,
-      "oAP" : "\/build\/p\/iamluigib.html",
-      "oF" : 0
+      "oAP" : "\/build\/media\/twitter-icon-circle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/source\/media\/users_illustration.png" : {
+      "ft" : 32768,
+      "iS" : 52668,
+      "oA" : 0,
+      "oAP" : "\/build\/media\/users_illustration.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
     },
     "\/source\/script\/main.js" : {
       "bF" : 0,
@@ -566,6 +610,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/source\/usermanagement.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/usermanagement.html",
+      "oF" : 0
     }
   },
   "hooks" : [
@@ -580,7 +632,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "meme-ive",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 669413000.92434895
+    "lastBuiltDate" : 692700804.63019598
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -878,144 +930,6 @@
     "buildFolderActive" : 1,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
-    "coffeeLintFlags2" : {
-      "arrow_spacing" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "camel_case_classes" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "colon_assignment_spacing" : {
-        "active" : 0,
-        "flagValue" : 1
-      },
-      "cyclomatic_complexity" : {
-        "active" : 0,
-        "flagValue" : 10
-      },
-      "duplicate_key" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "empty_constructor_needs_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "ensure_comprehensions" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "indentation" : {
-        "active" : 1,
-        "flagValue" : 2
-      },
-      "line_endings" : {
-        "active" : 0,
-        "flagValue" : 0
-      },
-      "max_line_length" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "missing_fat_arrows" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "newlines_after_classes" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "no_backticks" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_debugger" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_empty_functions" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_empty_param_list" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_implicit_braces" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_implicit_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_interpolation_in_single_quotes" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_nested_string_interpolation" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_plusplus" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_private_function_fat_arrows" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_stand_alone_at" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_tabs" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_this" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_throwing_strings" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_trailing_semicolons" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_trailing_whitespace" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_unnecessary_double_quotes" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_unnecessary_fat_arrows" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "non_empty_constructor_needs_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "prefer_english_operator" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "space_operators" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "spacing_after_comma" : {
-        "active" : 1,
-        "flagValue" : -1
-      }
-    },
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
@@ -1067,10 +981,6 @@
       "brace-style" : {
         "active" : 0,
         "optionString" : "'1tbs', {'allowSingleLine': true}"
-      },
-      "callback-return" : {
-        "active" : 0,
-        "optionString" : "['callback', 'cb', 'next']"
       },
       "camelcase" : {
         "active" : 0,
@@ -1163,6 +1073,10 @@
         "active" : 0,
         "optionString" : "'expression'"
       },
+      "function-call-argument-newline" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
       "function-paren-newline" : {
         "active" : 0,
         "optionString" : "'multiline'"
@@ -1175,9 +1089,6 @@
         "active" : 0,
         "optionString" : "{'allowImplicit': false}"
       },
-      "global-require" : {
-        "active" : 0
-      },
       "grouped-accessor-pairs" : {
         "active" : 0,
         "optionString" : "'anyOrder'"
@@ -1185,11 +1096,7 @@
       "guard-for-in" : {
         "active" : 0
       },
-      "handle-callback-err" : {
-        "active" : 0,
-        "optionString" : "'err'"
-      },
-      "id-blacklist" : {
+      "id-denylist" : {
         "active" : 0,
         "optionString" : "'data', 'err', 'e', 'cb', 'callback'"
       },
@@ -1313,9 +1220,6 @@
         "active" : 0,
         "optionString" : "{'allow': ['~'], 'int32Hint': true}"
       },
-      "no-buffer-constructor" : {
-        "active" : 0
-      },
       "no-caller" : {
         "active" : 0
       },
@@ -1342,6 +1246,9 @@
       },
       "no-const-assign" : {
         "active" : 1
+      },
+      "no-constant-binary-expression" : {
+        "active" : 0
       },
       "no-constant-condition" : {
         "active" : 1,
@@ -1375,6 +1282,9 @@
         "active" : 1
       },
       "no-dupe-keys" : {
+        "active" : 1
+      },
+      "no-duplicate-case" : {
         "active" : 1
       },
       "no-duplicate-imports" : {
@@ -1418,7 +1328,7 @@
       "no-extra-boolean-cast" : {
         "active" : 1
       },
-      "no-extra-labels" : {
+      "no-extra-label" : {
         "active" : 0
       },
       "no-extra-parens" : {
@@ -1506,10 +1416,6 @@
         "active" : 0,
         "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
       },
-      "no-mixed-requires" : {
-        "active" : 0,
-        "optionString" : "{'grouping': false, 'allowCall': false }"
-      },
       "no-mixed-spaces-and-tabs" : {
         "active" : 0,
         "optionString" : ""
@@ -1544,9 +1450,6 @@
       "no-new-object" : {
         "active" : 0
       },
-      "no-new-require" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -1569,18 +1472,9 @@
         "active" : 0,
         "optionString" : "{'props': false}"
       },
-      "no-path-concat" : {
-        "active" : 0
-      },
       "no-plusplus" : {
         "active" : 0,
         "optionString" : "{'allowForLoopAfterthoughts': false}"
-      },
-      "no-process-env" : {
-        "active" : 0
-      },
-      "no-process-exit" : {
-        "active" : 0
       },
       "no-promise-executor-return" : {
         "active" : 0
@@ -1608,10 +1502,6 @@
       },
       "no-restricted-imports" : {
         "active" : 0
-      },
-      "no-restricted-modules" : {
-        "active" : 0,
-        "optionString" : ""
       },
       "no-restricted-properties" : {
         "active" : 0,
@@ -1654,10 +1544,6 @@
       },
       "no-sparse-arrays" : {
         "active" : 1
-      },
-      "no-sync" : {
-        "active" : 0,
-        "optionString" : "{'allowAtRootLevel': false}"
       },
       "no-tabs" : {
         "active" : 0,
@@ -1727,6 +1613,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
@@ -1846,6 +1735,9 @@
       "prefer-numeric-literals" : {
         "active" : 0
       },
+      "prefer-object-has-own" : {
+        "active" : 0
+      },
       "prefer-object-spread" : {
         "active" : 0
       },
@@ -1878,14 +1770,11 @@
         "optionString" : "'always'"
       },
       "require-atomic-updates" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'allowProperties': false}"
       },
       "require-await" : {
         "active" : 0
-      },
-      "require-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
       },
       "require-unicode-regexp" : {
         "active" : 0
@@ -1972,10 +1861,6 @@
         "active" : 1,
         "optionString" : "{'enforceForSwitchCase': true, 'enforceForIndexOf': false}"
       },
-      "valid-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
-      },
       "valid-typeof" : {
         "active" : 1,
         "optionString" : "{'requireStringLiterals': true}"
@@ -2014,7 +1899,6 @@
       "minifierStyle" : 1,
       "outputStyle" : 0,
       "sourceMapStyle" : 0,
-      "syntaxCheckerStyle" : 1,
       "transpilerStyle" : 1
     },
     "languageDefaultsCSS" : {
@@ -2065,7 +1949,7 @@
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
       "outputFormat" : 0,
-      "quality" : 100,
+      "quality" : 80,
       "webpOptimizationPresetUUID" : "lpckwebp-none",
       "webpRGBQuality" : 75
     },
@@ -2161,7 +2045,7 @@
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
       "optimizerType" : 1,
-      "quality" : 100,
+      "quality" : 80,
       "webpOptimizationPresetUUID" : "lpckwebp-none",
       "webpRGBQuality" : 75
     },
@@ -2301,7 +2185,7 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
-    "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+    "skippedFoldersString" : "\/storage\/framework\/sessions,_logs,logs,log,.idea,_cache,cache",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
     "tsAllowSyntheticDefaultImports" : 0,
@@ -2477,6 +2361,10 @@
         "active" : 0,
         "flagValue" : -1
       },
+      "keep_numbers" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
       "keep_quoted_props" : {
         "active" : 0,
         "flagValue" : -1
@@ -2500,6 +2388,10 @@
       "passes" : {
         "active" : 1,
         "flagValue" : 1
+      },
+      "preserve_annotations" : {
+        "active" : 0,
+        "flagValue" : -1
       },
       "properties" : {
         "active" : 1,
@@ -2603,6 +2495,10 @@
       },
       "webkit" : {
         "active" : 0,
+        "flagValue" : -1
+      },
+      "wrap_func_args" : {
+        "active" : 1,
         "flagValue" : -1
       },
       "wrap_iife" : {
